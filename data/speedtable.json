@@ -1,0 +1,294 @@
+{
+ "site": "candy",
+ "name": "糖果云",
+ "rows": [
+  {
+   "name": "新加坡1-负载IEPL",
+   "type": "TROJAN",
+   "delay_ms": 96,
+   "https_ms": 454,
+   "avg_mb": 40.7,
+   "peak_mb": 123.7,
+   "raw": "新加坡1-负载IEPL | Trojan | 96ms | 454ms | 40.71MB | 123.66MB | 查询失败！解锁(SG) | 解锁(SG) | 失败 | N/A"
+  },
+  {
+   "name": "NM",
+   "type": "TROJAN",
+   "delay_ms": 100,
+   "https_ms": 395,
+   "avg_mb": 37.8,
+   "peak_mb": null,
+   "raw": "冖NM | 新加坡2-联通IEPL | Trojan | 100ms | 395ms | 37.77MB 114.92MB | 查询失败解锁(SG)解锁(SG) | 失败 | N/A"
+  },
+  {
+   "name": "香港2-联通IEPL",
+   "type": "TROJAN",
+   "delay_ms": 60,
+   "https_ms": 361,
+   "avg_mb": 37.0,
+   "peak_mb": null,
+   "raw": "香港2-联通IEPL | Trojan | 60ms | 361ms | 36.99MB 117.14MB | 未知 | 解锁(HK)解锁(HK) | 失败 | N/A"
+  },
+  {
+   "name": "香港1-负载IEPL",
+   "type": "TROJAN",
+   "delay_ms": 72,
+   "https_ms": 329,
+   "avg_mb": 35.8,
+   "peak_mb": null,
+   "raw": "4 | 香港1-负载IEPL | Trojan | 72ms | 329ms | 35.84MB 100.53MB | 未知 | 解锁(HK) 解锁(HK) | 失败 | N/A"
+  },
+  {
+   "name": "新加坡3-移动IEPL",
+   "type": "TROJAN",
+   "delay_ms": 101,
+   "https_ms": 450,
+   "avg_mb": 28.8,
+   "peak_mb": 76.4,
+   "raw": "5 | 新加坡3-移动IEPL | Trojan | 101ms | 450ms | 28.77MB | 76.41MB | 未知 | 解锁(SG)解锁(SG) | 失败 | N/A"
+  },
+  {
+   "name": "香港3-移动IEPL",
+   "type": "TROJAN",
+   "delay_ms": 61,
+   "https_ms": 334,
+   "avg_mb": 28.8,
+   "peak_mb": 89.8,
+   "raw": "6 | 香港3-移动IEPL | Trojan | 61ms | 334ms | 28.77MB | 89.75MB | 查询失败十解锁(HK) 解锁(HK) | 失败 | N/A"
+  },
+  {
+   "name": "日本2-联通IEPL",
+   "type": "TROJAN",
+   "delay_ms": 120,
+   "https_ms": 637,
+   "avg_mb": 28.2,
+   "peak_mb": 94.8,
+   "raw": "7 | 日本2-联通IEPL | Trojan | 120ms | 637ms | 28.24MB | 94.78MB | 解锁(JP) | 解锁(JP) | 解锁(JP) | 失败 | N/A"
+  },
+  {
+   "name": "香港家宽1-联通IEPL Trjan",
+   "type": "",
+   "delay_ms": 77,
+   "https_ms": 352,
+   "avg_mb": 24.4,
+   "peak_mb": null,
+   "raw": "8 | 香港家宽1-联通IEPL Trojan | 77ms | 352ms | 24.39MB I 67.42MB | 查询失败 解锁(HK) 解锁(HK)解锁（港澳台地区） | N/A"
+  },
+  {
+   "name": "香港家宽1-移动IEPL Trjan",
+   "type": "",
+   "delay_ms": 69,
+   "https_ms": 344,
+   "avg_mb": 24.4,
+   "peak_mb": null,
+   "raw": "(O | 香港家宽1-移动IEPL Trojan | 69ms | 344ms | 24.37MB 81.62MB | 查询失败|解锁(HK)解锁(HK)解锁（港澳台地区） | N/A"
+  },
+  {
+   "name": "日本家宽1-联通IEPL Trjan",
+   "type": "",
+   "delay_ms": 114,
+   "https_ms": 544,
+   "avg_mb": 24.4,
+   "peak_mb": null,
+   "raw": "10 | 日本家宽1-联通IEPL Trojan | 114ms | 544ms | 24.37MB 73.16MB | 失败 | 解锁(JP) | 送中(CN) | N/A | N/A"
+  },
+  {
+   "name": "日本1-负载IEPL",
+   "type": "TROJAN",
+   "delay_ms": 125,
+   "https_ms": 571,
+   "avg_mb": 24.2,
+   "peak_mb": null,
+   "raw": "11 | 日本1-负载IEPL | Trojan | 125ms | 571ms | 24.17MB 92.50MB | 解锁(JP)解锁(JP） | 解锁(JP) | 失败 | N/A"
+  },
+  {
+   "name": "失败",
+   "type": "",
+   "delay_ms": 107,
+   "https_ms": 514,
+   "avg_mb": 22.9,
+   "peak_mb": 57.7,
+   "raw": "12 | 日本家宽1-负载IEPL Trojan 107ms | 514ms | 22.85MB | 57.69MB | 失败 | 解锁(JP)送中(CN) | N/A | N/A"
+  },
+  {
+   "name": "台湾家宽1-负载IEPL Trjan",
+   "type": "",
+   "delay_ms": 88,
+   "https_ms": 389,
+   "avg_mb": 21.9,
+   "peak_mb": 58.5,
+   "raw": "13 | 台湾家宽1-负载IEPL Trojan | 88ms | 389ms | 21.86MB | 58.50MB | 未知 | 解锁(TW）解锁(TW） | 解锁（台湾地区） | N/A"
+  },
+  {
+   "name": "日本家宽1-移动IEPL Trjan",
+   "type": "",
+   "delay_ms": 134,
+   "https_ms": 594,
+   "avg_mb": 21.4,
+   "peak_mb": null,
+   "raw": "14 | 日本家宽1-移动IEPL Trojan | 134ms | 594ms | 21.44MB 61.00MB | 查询失败 解锁(JP) 送中(CN) | N/A | N/A"
+  },
+  {
+   "name": "香港家宽1-负载 EPL Trjan",
+   "type": "",
+   "delay_ms": 61,
+   "https_ms": 513,
+   "avg_mb": 20.9,
+   "peak_mb": 54.8,
+   "raw": "15 | 香港家宽1-负载 EPL Trojan | 61ms | 513ms | 20.91MB | 54.81MB | 查询失败 解锁(HK)解锁(HK)解锁（港澳台地区) | N/A"
+  },
+  {
+   "name": "台湾家宽2-移动IEPL Trjan",
+   "type": "",
+   "delay_ms": 93,
+   "https_ms": 401,
+   "avg_mb": 20.3,
+   "peak_mb": 62.5,
+   "raw": "16 | 台湾家宽2-移动IEPL Trojan | 93ms | 401ms | 20.28MB | 62.50MB | 未知 | 解锁(TW）解锁(TW) 解锁（台湾地区） | N/A"
+  },
+  {
+   "name": "台湾家宽2-联通IEPL Trjan",
+   "type": "",
+   "delay_ms": 122,
+   "https_ms": 530,
+   "avg_mb": 18.4,
+   "peak_mb": 54.1,
+   "raw": "台湾家宽2-联通IEPL Trojan | 122ms | 530ms | 18.36MB | 54.12MB | 未知 | 解锁(TW）解锁(TW） | 解锁(台湾地区） | N/A"
+  },
+  {
+   "name": "日本3-移动IEPL",
+   "type": "TROJAN",
+   "delay_ms": 176,
+   "https_ms": 767,
+   "avg_mb": 18.0,
+   "peak_mb": 67.2,
+   "raw": "日本3-移动IEPL | Trojan | 176ms | 767ms | 18.02MB | 67.19MB | 未知 | 解锁(JP) | 解锁(JP) | N/A | N/A"
+  },
+  {
+   "name": "美国1-负载IEPL",
+   "type": "TROJAN",
+   "delay_ms": 273,
+   "https_ms": 1092,
+   "avg_mb": 6.6,
+   "peak_mb": 32.0,
+   "raw": "美国1-负载IEPL | Trojan | 273ms | 1092ms | 6.58MB | 31.98MB | 解锁(US)解锁(US) | 解锁(US) | N/A | N/A"
+  },
+  {
+   "name": "美国1-移动IEPL",
+   "type": "TROJAN",
+   "delay_ms": 243,
+   "https_ms": 1014,
+   "avg_mb": 6.5,
+   "peak_mb": 28.2,
+   "raw": "美国1-移动IEPL | Trojan | 243ms | 1014ms | 6.53MB | 28.16MB | 未知 | 解锁(US) | 解锁(US) | N/A | N/A"
+  },
+  {
+   "name": "美国2-联通1EPL",
+   "type": "TROJAN",
+   "delay_ms": 212,
+   "https_ms": 915,
+   "avg_mb": 6.0,
+   "peak_mb": 26.9,
+   "raw": "美国2-联通1EPL | Trojan | 212ms | 915ms | 5.95MB | 26.91MB | 查询失败 解锁(US) | 解锁(US) | N/A | N/A"
+  },
+  {
+   "name": "泰国-IEPL",
+   "type": "TROJAN",
+   "delay_ms": 157,
+   "https_ms": 648,
+   "avg_mb": 4.0,
+   "peak_mb": 10.9,
+   "raw": "泰国-IEPL | Trojan | 157ms | 648ms | 4.05MB | 10.89MB | 查询失败上解锁(TH） 解锁(TH) | N/A | N/A"
+  },
+  {
+   "name": "英国",
+   "type": "TROJAN",
+   "delay_ms": 244,
+   "https_ms": 1013,
+   "avg_mb": 3.3,
+   "peak_mb": 11.7,
+   "raw": "米英国 | Trojan | 244ms | 1013ms | 3.34MB | 11.72MB | 失败 | 解锁(GB) | N/A | N/A | N/A"
+  },
+  {
+   "name": "德国1-负载IEPL",
+   "type": "TROJAN",
+   "delay_ms": 240,
+   "https_ms": 1005,
+   "avg_mb": 2.2,
+   "peak_mb": 9.4,
+   "raw": "24 | 德国1-负载IEPL | 德国1-负载/EPL | Trojan | 240ms | 1005ms | 2.21MB | 9.39MB | 查询失败 | 未知 | 送中(CN) | 解锁（台湾地区） | N/A"
+  },
+  {
+   "name": "德国3-移动IEPL",
+   "type": "TROJAN",
+   "delay_ms": 244,
+   "https_ms": 1021,
+   "avg_mb": 1.8,
+   "peak_mb": 7.8,
+   "raw": "德国3-移动IEPL | Trojan | 244ms | 1021ms | 1.81MB | 7.82MB | 查询失败 | 未知 | 送中(CN) | 解锁(台湾地区） | 解锁（台湾地区） | N/A"
+  },
+  {
+   "name": "德国2-联通IEPL",
+   "type": "TROJAN",
+   "delay_ms": 286,
+   "https_ms": 1160,
+   "avg_mb": 1.8,
+   "peak_mb": 5.8,
+   "raw": "德国2-联通IEPL | Trojan | 286ms | 1160ms | 1.76MB | 5.82MB | 查询失败 | 未知 | 送中(CN) | 解锁(台湾地区） | 解锁（台湾地区） | N/A"
+  },
+  {
+   "name": "土耳其-IEPL",
+   "type": "TROJAN",
+   "delay_ms": 322,
+   "https_ms": 1294,
+   "avg_mb": 1.1,
+   "peak_mb": 3.8,
+   "raw": "土耳其-IEPL | Trojan | 322ms | 1294ms | 1.07MB | 3.80MB | 失败 | 解锁(TR) | 解锁(TR) | N/A | N/A"
+  },
+  {
+   "name": "韩国-IEPL",
+   "type": "TROJAN",
+   "delay_ms": 244,
+   "https_ms": 997,
+   "avg_mb": 0.4,
+   "peak_mb": 1.6,
+   "raw": "25 K8N85 | 韩国-IEPL | Trojan | 244ms | 997ms | 410.81KB | 1.57MB | 解锁(KR) | 失败 | N/A"
+  },
+  {
+   "name": "美国家宽3-移动IEPL Trjan",
+   "type": "",
+   "delay_ms": 285,
+   "https_ms": 1323,
+   "avg_mb": 0.2,
+   "peak_mb": null,
+   "raw": "美国家宽3-移动IEPL Trojan | 285ms | 1323ms | 156.10KB | 未知 | 解锁(US)送中(CN) | 解锁（台湾地区） | N/A"
+  },
+  {
+   "name": "美国家宽2-联通IEPL Trjan",
+   "type": "",
+   "delay_ms": 287,
+   "https_ms": 1816,
+   "avg_mb": 0.1,
+   "peak_mb": null,
+   "raw": "美国家宽2-联通IEPL Trojan | 287ms | 1816ms | 87.92KB 527.52KB | 查询失败解锁(US) 送中(CN) | 解锁（台湾地区） | N/A"
+  },
+  {
+   "name": "美国家宽1-负载IEPL Trjan",
+   "type": "",
+   "delay_ms": 378,
+   "https_ms": 1230,
+   "avg_mb": 0.0,
+   "peak_mb": 0.0,
+   "raw": "37 | 美国家宽1-负载IEPL Trojan | 378ms | -1230ms | 0.00B | 0.00B | 解锁(US) 解锁(US)送中(CN) | 解锁（台湾地区） | N/A"
+  },
+  {
+   "name": "阿根廷-IEPL",
+   "type": "TROJAN",
+   "delay_ms": 380,
+   "https_ms": 1581,
+   "avg_mb": 0.0,
+   "peak_mb": 0.0,
+   "raw": "38 | 阿根廷-IEPL | Trojan | 380ms | 1581ms | 0.00B | 0.00B | 失败 | 解锁(AR) | 解锁(AR) | N/A | N/A"
+  }
+ ]
+}

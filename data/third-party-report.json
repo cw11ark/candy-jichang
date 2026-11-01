@@ -1,0 +1,37 @@
+{
+  "site_id": "candy",
+  "name": "糖果云",
+  "image": "images/speedtests/candy.jpeg",
+  "attribution": "YGPY 糖果云段落及对应alt；图内未独立核实品牌",
+  "test_time_as_printed": "2025-08-08 08:06:21 (CST)",
+  "test_date": "2025-08-08",
+  "report_type": "download_speed_latency_and_streaming",
+  "has_download_throughput": true,
+  "backend_as_read": "东北-辽宁电信 [2Gbps]",
+  "tool_as_read": "MiaoKo / FFQ.LA；主端4.3.3(696)，喵速5.0.0-beta4",
+  "threads": 8,
+  "traffic_used_gb": null,
+  "duration_seconds": null,
+  "ping_count": null,
+  "table_rows": 38,
+  "metrics_present": [
+    "TLS RTT",
+    "HTTPS延迟",
+    "平均速度",
+    "最高速度",
+    "每秒速度图",
+    "流媒体/ChatGPT解锁"
+  ],
+  "example": {
+    "node": "新加坡1-负载IEPL",
+    "tls_rtt_ms": 96,
+    "https_latency_ms": 454,
+    "average_speed_raw": "40.71MB",
+    "peak_speed_raw": "123.66MB"
+  },
+  "caveats": [
+    "2025年截图，部分节点0B和流媒体查询失败；本轮未核验其当前状态。",
+    "N/A可能是未跑该项，不能一律标不支持。",
+    "图列平均与瞬时最高差距很大；后续不得只取峰值。"
+  ]
+}
